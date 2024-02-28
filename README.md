@@ -1,6 +1,6 @@
 # Create Your First React App
 
-1. Create a new branch based on master called 'dev'
+1. Create a new branch based on master called 'dev' on GitHub
 2. Clone the repository to your local machine
 3. Run _git switch_ on your terminal to switch to the **dev** branch
 4. Run _npx create vite@latest my-first-react-app --template react_ on the terminal
