@@ -10,3 +10,5 @@
 8. Push your changes to the dev branch
 9. Create a pull request in GitHub to merge your **dev** branch to **master** branch
 10. Merge pull request
+
+Good luck!
